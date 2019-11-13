@@ -1,0 +1,12 @@
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\bin\Debug\netstandard2.0\Calcoolator.deps.json
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\bin\Debug\netstandard2.0\Calcoolator.dll
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\bin\Debug\netstandard2.0\Calcoolator.pdb
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\obj\Debug\netstandard2.0\Calcoolator.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\obj\Debug\netstandard2.0\Calcoolator.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\obj\Debug\netstandard2.0\Calcoolator.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\obj\Debug\netstandard2.0\Calcoolator.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\obj\Debug\netstandard2.0\Calcoolator.dll
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\obj\Debug\netstandard2.0\Calcoolator.pdb
+C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\obj\Debug\netstandard2.0\Calc.xaml.g.cs
