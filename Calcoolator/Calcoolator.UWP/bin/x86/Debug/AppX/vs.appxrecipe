@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>AE9E39FBADAE723090E9C757DC7C3460356BF5A298041C4907D5978D46F2233A</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>003C8FF90620D4614A808C4E47134403D9541289F61E2493871970B97CEFBE43</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>0a718577-9e52-4fad-8d03-153e7baf7499_1.0.0.0_x86__x4hqb8xtm9szj</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>0a718577-9e52-4fad-8d03-153e7baf7499_x4hqb8xtm9szj!App</RegisteredUserModeAppID>
     <RegisteredPackageID>0a718577-9e52-4fad-8d03-153e7baf7499</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-11-13T18:03:24.907</Modified>
+      <Modified>2020-06-27T22:24:38.032</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator.UWP\bin\x86\Debug\Calcoolator.UWP.exe">
       <PackagePath>entrypoint\Calcoolator.UWP.exe</PackagePath>
-      <Modified>2019-11-13T18:03:23.686</Modified>
+      <Modified>2020-06-27T22:24:37.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MSI\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -712,7 +712,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator\bin\Debug\netstandard2.0\Calcoolator.dll">
       <PackagePath>Calcoolator.dll</PackagePath>
-      <Modified>2019-11-13T18:03:17.661</Modified>
+      <Modified>2020-06-27T22:24:31.527</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
@@ -859,11 +859,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-11-13T18:03:23.487</Modified>
+      <Modified>2020-06-27T22:24:36.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-11-13T18:03:23.487</Modified>
+      <Modified>2020-06-27T22:24:36.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -875,11 +875,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-07-17T17:38:06.414</Modified>
+      <Modified>2020-06-27T18:54:45.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MSI\source\repos\Calcoolator\Calcoolator\Calcoolator.UWP\bin\x86\Debug\Core\Calcoolator.UWP.exe">
       <PackagePath>Calcoolator.UWP.exe</PackagePath>
-      <Modified>2019-11-13T18:03:24.899</Modified>
+      <Modified>2020-06-27T22:24:38.026</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
